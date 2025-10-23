@@ -6,7 +6,7 @@ class ArithmeticTask {
     public static void main(String[] args) {
         //(result = result * 2 to result -= 1;) compound assignment   
 
-        int result = 1 + 2;// sum is 3 to get the value of result
+        int result = 20 + 5;// sum is 3 to get the value of result
         System.out.println(result);
 
         result -= 1; // result - 1 = 2
