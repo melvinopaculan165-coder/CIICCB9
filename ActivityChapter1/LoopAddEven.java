@@ -4,7 +4,7 @@ package ActivityChapter1;
 public class LoopAddEven {
     public static void main(String[] args) {
 
-        int check_number = 20; // Step 2: initialize variable
+        int check_number = 10; // Step 2: initialize variable
         String message;        // Step 3: declare String variable
 
         for (int i = 1; i <= check_number; i++) { // Step 4–5: loop using check_number as condition
