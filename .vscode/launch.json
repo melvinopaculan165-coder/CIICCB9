@@ -1,0 +1,195 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StringLesson",
+            "request": "launch",
+            "mainClass": "Chapter3.StringLesson",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Launch External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticTask",
+            "request": "launch",
+            "mainClass": "ActivityChapter1.ArithmeticTask",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorldApp",
+            "request": "launch",
+            "mainClass": "ActivityChapter1.HelloWorldApp",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "LoopAddEven",
+            "request": "launch",
+            "mainClass": "ActivityChapter1.LoopAddEven",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "Task2",
+            "request": "launch",
+            "mainClass": "ActivityChapter2.Task2",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "Task3",
+            "request": "launch",
+            "mainClass": "ActivityChapter2.Task3",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "Task5",
+            "request": "launch",
+            "mainClass": "ActivityChapter3.Task5",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "Constructor1Lesson",
+            "request": "launch",
+            "mainClass": "Chapter1.Constructor1Lesson",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "Fruit4",
+            "request": "launch",
+            "mainClass": "Chapter1.Fruit4",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "InstanceIniLesson",
+            "request": "launch",
+            "mainClass": "Chapter1.InstanceIniLesson",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Chapter1.Main",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "Name",
+            "request": "launch",
+            "mainClass": "Chapter1.Name",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "PrimitivesLesson",
+            "request": "launch",
+            "mainClass": "Chapter1.PrimitivesLesson",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "ReferenceLesson",
+            "request": "launch",
+            "mainClass": "Chapter1.ReferenceLesson",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "Scope",
+            "request": "launch",
+            "mainClass": "Chapter1.Scope",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "Swan",
+            "request": "launch",
+            "mainClass": "Chapter1.Swan",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "Toy",
+            "request": "launch",
+            "mainClass": "Chapter1.Toy",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "EqualityOperator",
+            "request": "launch",
+            "mainClass": "Chapter2.EqualityOperator",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "IfStatementLesson",
+            "request": "launch",
+            "mainClass": "Chapter2.IfStatementLesson",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "LoopsLesson",
+            "request": "launch",
+            "mainClass": "Chapter2.LoopsLesson",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLesson",
+            "request": "launch",
+            "mainClass": "Chapter3.ArrayLesson",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "SunFlower",
+            "request": "launch",
+            "mainClass": "otherFolder.SunFlower",
+            "projectName": "CIICCB9_d324eb98"
+        }
+    ]
+}

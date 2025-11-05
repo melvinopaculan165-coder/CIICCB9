@@ -37,7 +37,6 @@ public class Task5 {
         } else {
             System.out.println(num3 + " is the largest");
         }
-
         sc.close();
     }
 }
