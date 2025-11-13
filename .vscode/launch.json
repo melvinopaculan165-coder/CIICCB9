@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task4",
+            "request": "launch",
+            "mainClass": "ActivityChapter3.Task4",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
             "name": "StringLesson",
             "request": "launch",
             "mainClass": "Chapter3.StringLesson",
