@@ -33,3 +33,14 @@ public class ReturnType {
 class Avocado{
 
 }
+
+class MoonFlower extends AccessModifier{
+    public static void main(String[] args) {
+        MoonFlower mf = new MoonFlower();
+        //mf.greetMe2();
+        mf.greetMe3();
+        // mf.greetMe4();
+       
+    }
+
+}

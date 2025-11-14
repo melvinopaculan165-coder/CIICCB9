@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MoonFlower",
+            "request": "launch",
+            "mainClass": "otherFolder.MoonFlower",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "DatesAndTimeLesson",
+            "request": "launch",
+            "mainClass": "Chapter3.DatesAndTimeLesson",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "MoonFlower",
+            "request": "launch",
+            "mainClass": "Chapter4.MoonFlower",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "ClassZ",
+            "request": "launch",
+            "mainClass": "Chapter4.ClassZ",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "AccessModifier",
+            "request": "launch",
+            "mainClass": "Chapter4.AccessModifier",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
             "name": "Task4",
             "request": "launch",
             "mainClass": "ActivityChapter3.Task4",
