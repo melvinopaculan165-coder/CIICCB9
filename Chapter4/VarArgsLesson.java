@@ -1,4 +1,4 @@
-package chapter4;
+package Chapter4;
 
 public class VarArgsLesson {
     int counter = 0;

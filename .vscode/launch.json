@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LawnSharkApp",
+            "request": "launch",
+            "mainClass": "otherFolder.LawnSharkApp",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "ClassY",
+            "request": "launch",
+            "mainClass": "Chapter4.ClassY",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "VarArgsLesson",
+            "request": "launch",
+            "mainClass": "Chapter4.VarArgsLesson",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
             "name": "MoonFlower",
             "request": "launch",
             "mainClass": "otherFolder.MoonFlower",
