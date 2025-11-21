@@ -1,4 +1,4 @@
-package otherFolder;
+package otherFolder.a.Task;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,7 +15,6 @@ public class LawnSharkApp {
     }
     
 }
-
 
 class Lawner{
     private String name;

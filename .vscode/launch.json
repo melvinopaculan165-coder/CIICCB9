@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LambdaLesson",
+            "request": "launch",
+            "mainClass": "Chapter4.LambdaLesson",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "Wolf",
+            "request": "launch",
+            "mainClass": "Chapter5.Wolf",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
+            "name": "InheritanceLesson",
+            "request": "launch",
+            "mainClass": "Chapter5.InheritanceLesson",
+            "projectName": "CIICCB9_d324eb98"
+        },
+        {
+            "type": "java",
             "name": "LawnSharkApp",
             "request": "launch",
             "mainClass": "otherFolder.LawnSharkApp",
