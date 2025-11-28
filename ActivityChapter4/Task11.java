@@ -1,11 +1,9 @@
 public class Task11 {
     public static void main(String[] args) {
-        // Instantiate three Book objects using the constructor
         Book book1 = new Book("Java Programming", "John Smith", 2021, 39.99);
         Book book2 = new Book("Python Basics", "Jane Doe", 2020, 29.99);
         Book book3 = new Book("C++ Essentials", "Michael Johnson", 2018, 41.99);
 
-        // Print the details of each book using the toString() method
         System.out.println("Book 1:");
         System.out.println(book1.toString());
         
