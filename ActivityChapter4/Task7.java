@@ -31,7 +31,7 @@ public class Task7 {
         scanner.close();
         
         double sum = add(number1, number2);
-        System.out.println("\nAddition: " + number1 + " + " + number2 + " = " + sum);
+        System.out.println("\n Addition: " + number1 + " + " + number2 + " = " + sum);
         double difference = subtract(number1, number2);
         System.out.println("Subtraction: " + number1 + " - " + number2 + " = " + difference);
         double product = multiply(number1, number2);
