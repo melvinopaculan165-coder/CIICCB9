@@ -1,14 +1,11 @@
-package Chapter 6;
+package Chapter6;
 
-public class ExceptionsLesson {
-    
-}
 import java.io.FileReader;
 import java.io.IOException;
 
 public class ExceptionsLesson{
     
-    public static void main(String[] args) throws Exception, RuntimeException {
+    public static void main (String[] args) throws Exception, RuntimeException {
         throw new Exception("Bad Code");
         // throw new RuntimeException("Bad Code");
     }
